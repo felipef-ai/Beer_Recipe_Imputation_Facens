@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
+
+# Data files
+*.csv
+!data/recipeData.csv
+data/recipeData_imputed.csv
+
+# Images
+*.png
